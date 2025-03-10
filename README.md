@@ -1,6 +1,6 @@
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kulani Geethma</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KulaniGeethma&label=Profile%20views&color=0e75b6&style=flat" alt="sakith71" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KulaniGeethma&label=Profile%20views&color=0e75b6&style=flat" alt="KulaniGeethma" /> </p>
 
 ## About me
 
@@ -16,19 +16,15 @@
 
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">Connect with me 🤝 </h3>
 <p align="left">
-<a href="https://x.com" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="sakiththewmika" height="40" width="40" /></a>
 <a href="https://www.linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakith umagiliya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sakith umagiliya" height="30" width="40" /></a>
-<a href="https://web.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakith thewmika umagiliya" height="30" width="40" /></a>
 <a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakith_71" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sakiththeady0" height="30" width="40" /></a>
 </p>
 
 
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">Languages and Tools 👨🏻‍💻</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,java,spring,python,html,css,js,react,flutter,mongodb,mysql,postman,figma,firebase,git,github,vscode,discord,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,react,flutter,mongodb,mysql,postman,figma,firebase,git,github,vscode&perline=14" />
   </a>
 </p>
 <br>
